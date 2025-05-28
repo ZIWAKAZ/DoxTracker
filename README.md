@@ -29,5 +29,5 @@ git clone https://github.com/KURO-CODE/DoxTracker.git
 use Python 2.x
 ```bash
 cd DoxTracker
-python3 DoxTracker.py
+python3 DoxTracker.py 
 ```
